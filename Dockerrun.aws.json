@@ -4,6 +4,6 @@
 		"Name": "delr3ves/kuronometer-server:28"
 	},
 	"Ports": [{
-		"ContainerPort": "80"
+		"ContainerPort": "8080"
 	}]
 }
