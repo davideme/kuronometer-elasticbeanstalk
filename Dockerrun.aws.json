@@ -1,7 +1,8 @@
 {
 	"AWSEBDockerrunVersion": "1",
 	"Image": {
-		"Name": "delr3ves/kuronometer-server:first-working"
+		"Name": "delr3ves/kuronometer-server:first-working",
+		"Update": "true"
 	},
 	"Ports": [{
 		"ContainerPort": "8080"
